@@ -1,26 +1,26 @@
 # Georgios (Yiorg) Kiminos
 
-**Senior / Lead Data Scientist | Credit Risk, Open-Banking Intelligence & Responsible AI**
+**Senior Data Scientist — Credit Risk, Open Banking & Responsible AI**
 
-![Experience](https://img.shields.io/badge/Experience-20%2B%20Years-17324D?style=for-the-badge)
+![Experience](https://img.shields.io/badge/Experience-20%2B%20Years%20Across%20Business%20%26%20Data-17324D?style=for-the-badge)
 ![Transactions](https://img.shields.io/badge/Data%20Scale-23M%20Transactions-315B7D?style=for-the-badge)
-![Loans](https://img.shields.io/badge/Model%20Evidence-890K%20Loans-315B7D?style=for-the-badge)
+![Loans](https://img.shields.io/badge/Validation%20Evidence-890K%20Loans-315B7D?style=for-the-badge)
 ![Upwork](https://img.shields.io/badge/Upwork-77%20Contracts-14A800?style=for-the-badge&logo=upwork&logoColor=white)
 ![Top Rated](https://img.shields.io/badge/Top%20Rated-36%2B%20Consecutive%20Months-14A800?style=for-the-badge)
 
-I build and govern explainable financial-risk and decision systems. My work combines econometrics, machine learning, credit policy, open-banking transaction intelligence, NLP/LLMs and model governance—turning complex data into decisions that business, risk and compliance stakeholders can understand and use.
+I design and validate credit-risk and open-banking decision systems, combining econometrics, machine learning and model governance. At Finexos, I led analytical work involving approximately **23 million transactions** and evidence from approximately **890,000 historical loans**, translating model outputs into explainable lending decisions and policy controls.
 
-## Senior-level value
+## Impact at a glance
 
 | Value I bring | Evidence |
 | --- | --- |
 | Financial-risk decision ownership | Designed PD, LGD, expected-loss, affordability, debt-capacity, score-band and policy-threshold methodologies |
-| Work at meaningful scale | Analytical work involving approximately **23 million transactions** and evidence from approximately **890,000 historical loans** |
+| Scale | Analytical work involving approximately **23 million transactions** and evidence from approximately **890,000 historical loans** |
 | End-to-end delivery | Problem definition, data preparation, feature engineering, modelling, validation, decision logic, documentation and stakeholder handover |
 | Explainability and governance | Reason codes, audit trails, calibration, backtesting, leakage controls, monitoring, fairness considerations and human-review routes |
 | Technical and organisational leadership | Finexos leadership-team member; set research direction, translated modelling into product decisions and mentored technical work |
 | Independent delivery record | **77 Upwork contracts**, including **65 AI/data/ML assignments**, with Top Rated status maintained for more than **36 consecutive months** |
-| External technical credibility | HackerRank data-science assessment collaboration, journal co-authorship and public research profiles |
+| External validation | HackerRank data-science assessment collaboration, journal co-authorship and public research profiles |
 
 ## Finexos experience
 
@@ -35,7 +35,7 @@ I build and govern explainable financial-risk and decision systems. My work comb
 
 ### Selected Finexos portfolio
 
-| Dates | Project area | Contribution | Public-safe outcome |
+| Dates | Project area | Contribution | Business value |
 | --- | --- | --- | --- |
 | Jun 2021 – Aug 2026 | Credit-risk modelling | PD, LGD, expected-loss, affordability and maximum-affordability methodology | Structured risk and capacity signals for lending decisions |
 | Jun 2021 – Aug 2026 | Open-banking transaction intelligence | Transaction classification and feature extraction using statistical, NLP and LLM-assisted methods | Income, expenditure, obligation, stability and volatility indicators |
@@ -58,7 +58,7 @@ I build and govern explainable financial-risk and decision systems. My work comb
 <details>
 <summary><strong>View all 77 verified Upwork contracts</strong></summary>
 
-The complete history below is transcribed from the Upwork contract export. Rates, billing information, contact names and private client identities are intentionally omitted.
+Project titles are reproduced from Upwork records. Private client identities, rates, billing information and commercial terms are omitted.
 
 | Start – end | Public client/company | Upwork project title |
 | --- | --- | --- |
