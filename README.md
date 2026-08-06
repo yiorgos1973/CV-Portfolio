@@ -1,23 +1,37 @@
 # Georgios (Yiorg) Kiminos
 
-**Senior Data Scientist | Credit Risk | Transaction Intelligence | Responsible AI**
+**Senior / Lead Data Scientist | Credit Risk, Open-Banking Intelligence & Responsible AI**
 
-![Finexos](https://img.shields.io/badge/Finexos-Chief%20Data%20Scientist-17324D?style=for-the-badge)
+![Experience](https://img.shields.io/badge/Experience-20%2B%20Years-17324D?style=for-the-badge)
+![Transactions](https://img.shields.io/badge/Data%20Scale-23M%20Transactions-315B7D?style=for-the-badge)
+![Loans](https://img.shields.io/badge/Model%20Evidence-890K%20Loans-315B7D?style=for-the-badge)
 ![Upwork](https://img.shields.io/badge/Upwork-77%20Contracts-14A800?style=for-the-badge&logo=upwork&logoColor=white)
 ![Top Rated](https://img.shields.io/badge/Top%20Rated-36%2B%20Consecutive%20Months-14A800?style=for-the-badge)
 
-I design practical, explainable data-science systems for financial decisions. My experience combines credit-risk modelling, open-banking transaction intelligence, machine learning, econometrics, NLP/LLMs and production-oriented model governance.
+I build and govern explainable financial-risk and decision systems. My work combines econometrics, machine learning, credit policy, open-banking transaction intelligence, NLP/LLMs and model governance—turning complex data into decisions that business, risk and compliance stakeholders can understand and use.
+
+## Senior-level value
+
+| Value I bring | Evidence |
+| --- | --- |
+| Financial-risk decision ownership | Designed PD, LGD, expected-loss, affordability, debt-capacity, score-band and policy-threshold methodologies |
+| Work at meaningful scale | Analytical work involving approximately **23 million transactions** and evidence from approximately **890,000 historical loans** |
+| End-to-end delivery | Problem definition, data preparation, feature engineering, modelling, validation, decision logic, documentation and stakeholder handover |
+| Explainability and governance | Reason codes, audit trails, calibration, backtesting, leakage controls, monitoring, fairness considerations and human-review routes |
+| Technical and organisational leadership | Finexos leadership-team member; set research direction, translated modelling into product decisions and mentored technical work |
+| Independent delivery record | **77 Upwork contracts**, including **65 AI/data/ML assignments**, with Top Rated status maintained for more than **36 consecutive months** |
+| External technical credibility | HackerRank data-science assessment collaboration, journal co-authorship and public research profiles |
 
 ## Finexos experience
 
 ### Chief Data Scientist & Credit Risk Manager | June 2021 – August 2026
 
-- Led the design and validation of credit-risk decisioning systems covering probability of default, loss given default, expected loss, affordability, maximum affordability and debt capacity.
-- Developed transaction-intelligence capabilities using machine learning, NLP and LLM-assisted analysis of open-banking data.
+- Owned the analytical architecture for an automated credit-decision platform combining credit risk, affordability, transaction intelligence and policy controls.
+- Led the design and validation of PD, LGD, expected-loss, affordability, maximum-affordability and debt-capacity methodologies.
+- Developed open-banking transaction intelligence using econometrics, machine learning, NLP and LLM-assisted analysis.
 - Worked with approximately **23 million transactions** and modelling evidence covering approximately **890,000 historical loans**.
-- Converted modelling outputs into lender-facing decision support, explainable reason codes, audit trails and responsible-lending controls.
-- Designed approaches combining predictive models with credit policy, risk thresholds, human-review routes, monitoring and fairness considerations.
-- Led technical research, model evaluation, documentation and communication across data-science, product and business stakeholders.
+- Converted analytical outputs into score bands, policy thresholds, explainable reason codes, audit trails and responsible-lending controls.
+- Served on the leadership team, setting technical direction and communicating decisions across data-science, product, business and executive stakeholders.
 
 ### Selected Finexos portfolio
 
@@ -130,10 +144,12 @@ The complete history below is transcribed from the Upwork contract export. Rates
 
 ## Core expertise
 
-`Python` · `SQL` · `machine learning` · `credit risk` · `transaction intelligence` · `NLP / LLMs` · `forecasting` · `model validation` · `explainable AI` · `AWS` · `Azure` · `GCP`
+`Python` · `SQL` · `econometrics` · `machine learning` · `PD / LGD / expected loss` · `affordability` · `credit policy` · `transaction intelligence` · `NLP / LLMs` · `forecasting` · `model validation` · `responsible and explainable AI` · `AWS` · `Azure` · `GCP`
 
 ## Public profile
 
+- LinkedIn: [Georgios Kiminos](https://gr.linkedin.com/in/georgios-kiminos-04111973)
+- ResearchGate: [Georgios Kiminos](https://www.researchgate.net/profile/Georgios-Kiminos-2)
 - ORCID: [0009-0001-9455-8456](https://orcid.org/0009-0001-9455-8456)
 
 Client source code, data, personal names and internal commercial information are not published. I can discuss relevant architecture, modelling, validation methodology and my individual contribution during interview.
