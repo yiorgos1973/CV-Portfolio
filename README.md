@@ -19,7 +19,7 @@ I design and validate credit-risk and open-banking decision systems, combining e
 | End-to-end delivery | Problem definition, data preparation, feature engineering, modelling, validation, decision logic, documentation and stakeholder handover |
 | Explainability and governance | Reason codes, audit trails, calibration, backtesting, leakage controls, monitoring, fairness considerations and human-review routes |
 | Technical and organisational leadership | Finexos leadership-team member; set research direction, translated modelling into product decisions and mentored technical work |
-| Real-world portfolio impact | On a 9,901-loan scored Hive book, the Finexos A–D approval rule improved projected recovery-based ROI from **−6.90% to +9.87%** (**+16.77 percentage points**) and avoided **€258.0k** of expected loss |
+| Real-world portfolio impact | On a 9,901-loan scored short-term-lender book, the Finexos A–D approval rule improved projected recovery-based ROI from **−6.90% to +9.87%** (**+16.77 percentage points**) and avoided **€258.0k** of expected loss |
 | Independent delivery record | **77 Upwork contracts**, including **65 AI/data/ML assignments**, with Top Rated status maintained for more than **36 consecutive months** |
 | External validation | HackerRank data-science assessment collaboration, journal co-authorship and public research profiles |
 
@@ -45,7 +45,7 @@ I design and validate credit-risk and open-banking decision systems, combining e
 | May 2026 – Aug 2026 | Constrained reinforcement-lending research | Designed a contextual-bandit/RL architecture operating only after risk, affordability, data-quality and compliance gates | Adaptive optimisation restricted to pre-approved safe actions |
 | Jun 2021 – Aug 2026 | Technical leadership | Set research direction, documented systems, explained results to stakeholders and mentored technical work | Translation of advanced modelling into implementable business systems |
 
-### Real-world portfolio impact: Hive scored book
+### Real-world portfolio impact: short-term lender scored book
 
 This is a **real Finexos portfolio case**, based on a scored book of **9,901 funded loans** and the projected total-recovery values in the active projection table. The decision rule was:
 
@@ -66,7 +66,7 @@ The Finexos segmentation separated the profitable A–D grades from the loss-mak
 
 Grades E and F are not Finexos-approved lending and are not presented as Finexos originations. They are the avoided-risk segment: their projected recovery is only **79.50% of funded capital**.
 
-A separate Hive-only/Ungraded resolved benchmark showed **+8.21%**. The apparent **+1.66 percentage-point** difference versus the A–D result is included only as context and is **not a like-for-like comparison**, because Ungraded loans have no projected total-recovery value in the active projection table.
+A separate short-term-lender-only/Ungraded resolved benchmark showed **+8.21%**. The apparent **+1.66 percentage-point** difference versus the A–D result is included only as context and is **not a like-for-like comparison**, because Ungraded loans have no projected total-recovery value in the active projection table.
 
 > **Interpretation:** This is a projected recovery-based ROI proxy, not full accounting profit or realized investment return. It excludes customer-acquisition cost, funding cost, servicing cost, collections cost and the timing of cash flows.
 
