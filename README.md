@@ -8,8 +8,6 @@
 ![Upwork](https://img.shields.io/badge/Upwork-77%20Contracts-14A800?style=for-the-badge&logo=upwork&logoColor=white)
 ![Top Rated](https://img.shields.io/badge/Top%20Rated-36%2B%20Consecutive%20Months-14A800?style=for-the-badge)
 
-I design and validate credit-risk and open-banking decision systems, combining econometrics, machine learning and model governance. At Finexos, I led analytical work involving approximately **23 million transactions** and evidence from approximately **890,000 historical loans**, translating model outputs into explainable lending decisions and policy controls.
-
 ## Impact at a glance
 
 | Value I bring | Evidence |
