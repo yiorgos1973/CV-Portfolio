@@ -70,7 +70,7 @@ A separate short-term-lender-only/Ungraded resolved benchmark showed **+8.21%**.
 
 ## Upwork experience
 
-### Independent Data Scientist & Machine-Learning Consultant | July 2018 – January 2026
+### Independent Data Scientist & Machine-Learning Consultant | July 2018 – August 2023
 
 - Completed **77 Upwork contracts**, including **65 AI, data or machine-learning assignments** and **9 finance or decision-system projects**.
 - Maintained **Upwork Top Rated status for more than 36 consecutive months**.
