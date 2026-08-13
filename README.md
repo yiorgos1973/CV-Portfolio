@@ -34,7 +34,7 @@
 
 ### Selected Finexos portfolio
 
-| Dates | Project area | Contribution | Business value |
+|    Dates    | Project area | Contribution | Business value |
 | --- | --- | --- | --- |
 | Jun 2021 – Aug 2026 | Credit-risk modelling | PD, LGD, expected-loss, affordability and maximum-affordability methodology | Structured risk and capacity signals for lending decisions |
 | Jun 2021 – Aug 2026 | Open-banking transaction intelligence | Transaction classification and feature extraction using statistical, NLP and LLM-assisted methods | Income, expenditure, obligatio[...]
@@ -84,7 +84,7 @@ A separate short-term-lender-only/Ungraded resolved benchmark showed **+8.21%**.
 
 Project titles are reproduced from Upwork records. Private client identities, rates, billing information and commercial terms are omitted.
 
-| Start – end | Public client/company | Upwork project title |
+|    Date   | Public client/company | Upwork project title |
 | --- | --- | --- |
 | 2018-03-29 | **LEWEI** | English to Greek Translation |
 | 2018-07-31 | Private client/team | NLP - Detecting Negation |
